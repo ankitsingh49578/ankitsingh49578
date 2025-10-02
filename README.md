@@ -10,8 +10,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankitsingh49578&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-singh-b3660a250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitsingh49578@gmail.com) 
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-singh-b3660a250/) 
+-->
+
+## 💻 Coding Profiles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ankitsingh49578/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23008000.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/ankitsingh4957)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300C000.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitsinghris)
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
