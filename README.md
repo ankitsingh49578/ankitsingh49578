@@ -1,13 +1,15 @@
 # 💫 Hi 👋, I'm Ankit Singh
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+Codderrr%2C+love+problemSolving...)](https://git.io/typing-svg)
-  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+ <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
   
 <!--🔹 Passionate about **Frontend Development**, **Backend Development** and **Data Structures & Algorithms**.
 ## 🌱 Currently Learning -->
+
+
 ![DSA](https://img.shields.io/badge/DSA-in%20progress-blue?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-NestJS-informational?style=flat-square)
 
 🔹 Always open to **collaboration** on exciting projects.  
-🔹 ⚡ Fun fact: I enjoy building efficient, scalable applications by combining solid data structures and algorithms with clean, modern web development. 
+🔹⚡Fun fact: I enjoy building efficient, scalable applications by combining solid data structures and algorithms with clean, modern web development. 
 <!--Email Me 👉 ✉️ **ankitsingh49578@gmail.com** For Collaboration/Project or Anything Else. 😊😊-->
 
 ## 🏆 GitHub Trophies
