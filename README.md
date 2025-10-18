@@ -1,6 +1,9 @@
 # 💫 Hi 👋, I'm Ankit Singh
-🔹 Passionate about **Frontend Development**, **Backend Development** and **Data Structures & Algorithms**.
-## 🌱 Currently Learning
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+Codderrr%2C+love+problemSolving...)](https://git.io/typing-svg)
+  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+  
+<!--🔹 Passionate about **Frontend Development**, **Backend Development** and **Data Structures & Algorithms**.
+## 🌱 Currently Learning -->
 ![DSA](https://img.shields.io/badge/DSA-in%20progress-blue?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-NestJS-informational?style=flat-square)
 
 🔹 Always open to **collaboration** on exciting projects.  
